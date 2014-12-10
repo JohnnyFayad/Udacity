@@ -1,0 +1,47 @@
+﻿/* HTML Tag Selectors */
+body {
+  font-family: "Lucida Grande", sans-serif;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 32px;
+}
+
+/* Class Selectors */
+.page-size {
+  max-width: 1024px;
+}
+
+/*  Header  */
+.maintitle {
+  color: #666;
+  font-size: 48px;
+  margin-bottom: 30px;
+  padding-top: 25px;
+}
+
+/*  Subheader  */
+.subtitle {
+  color: #f07c17;
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+/* Content */
+.screenshot {
+  border: 1px solid #CCC;
+  margin-bottom: 15px;
+}
+
+.box {
+  border: 1px solid #CCC;
+  margin-top: 30px;
+  padding: 32px;
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
